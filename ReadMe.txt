@@ -16,12 +16,7 @@ C:\Your path\Bowling\src>ruby main.rb
 This solution is based on the Finite-state machine modeling.
 *See http://en.wikipedia.org/wiki/Finite-state_machine
 
-Please refer to the document "State diagram for a bowling game.pdf" to 
-see the state diagram.
-
-The document "Interacting with the menu.pdf" shows the interaction with
-the menu.
- 
-
+Please refer to the image "State diagram for a bowling game" to 
+see the state diagram of the solution.
 
 
