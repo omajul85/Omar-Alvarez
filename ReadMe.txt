@@ -1,8 +1,3 @@
-Techical assessment for Developer, BBC Digital Media Graduate Scheme
-
-Author: Omar Alvarez
-LinkedIn: fr.linkedin.com/in/omaralvarez1/
-
 Bowling game
 
 This solution has been developed in Ruby 1.93.
